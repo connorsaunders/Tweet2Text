@@ -6,6 +6,9 @@
 
 Tweet2TextBot (Tweet to Text) is a Python script that utilizes Tweepy to connect to Twitter's API and scrape tweets from a user(s) containing images or text. The script uses OCR technology to read text from images and sends the scraped text to a specified phone number through the macOS Messages app.
 
+## Disclaimer
+With the new Twitter ("X") API rules, streaming is now a paid-for endpoint, and this app will no longer work for a free account.
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
